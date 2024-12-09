@@ -16,7 +16,7 @@
 
 <!-- My Skills and tools -->
 ## 🧑‍💻 &nbsp;Projects
-<p>Need to upload...</p>
+- [Amazon Prime Video](https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard) 
 
 <!-- My Skills and tools -->
 ## 💻 &nbsp;Skills
