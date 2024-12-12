@@ -17,8 +17,10 @@
   
 <!-- My Skills and tools -->
 ## 🧑‍💻 &nbsp;Projects
-- [Amazon Prime Video](https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard)
-<img src="https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard/blob/main/Screenshot%202024-12-09%20155322-modified.png" alt="Description" width="500" height="250" style="border-radius:80%;">
+- [Amazon Prime Video](https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard)<br>
+[<img src="https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard/blob/main/Screenshot%202024-12-09%20155322-modified.png" alt="Description" width="500" height="250" style="border-radius:80%;">](https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard)
+- [Shopping Trends Analysis](https://github.com/Priyanka-1912/Shopping_Trends_Analysis)<br>
+[<img src="https://github.com/Priyanka-1912/Shopping_Trends_Analysis/blob/main/3.png" alt="Description" width="500" height="250" style="border-radius:80%;">](https://github.com/Priyanka-1912/Shopping_Trends_Analysis/tree/main)
 
 <!-- My Skills and tools -->
 ## 💻 &nbsp;Skills
