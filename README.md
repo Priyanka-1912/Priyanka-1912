@@ -14,12 +14,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=101&pause=100&color=F7F7F7&width=435&lines=%7C;%2F;-;%5C" alt="Typing SVG" /></a>
 - Learning Stats 
 - Getting hands on with ML
+- GCP and AWS cloud solutions
+- BigQuery, RDS and database queries 
   
 <!-- My Skills and tools -->
 ## 🧑‍💻 &nbsp;Projects
-- [Amazon Prime Video](https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard)<br>
+- **[KPI dashboard - Sales Performance](https://github.com/Priyanka-1912/KPI-dashboard-Sales-Performance)**<br>
+[<img src="https://github.com/Priyanka-1912/KPI-dashboard-Sales-Performance/blob/main/Screenshot_2025-04-09_152455.png" alt="Description" width="500" height="250" style="border-radius:80%;">](https://github.com/Priyanka-1912/KPI-dashboard-Sales-Performance)
+- **[Amazon Prime Video](https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard)**<br>
 [<img src="https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard/blob/main/Screenshot%202024-12-09%20155322-modified.png" alt="Description" width="500" height="250" style="border-radius:80%;">](https://github.com/Priyanka-1912/Amazon-Prime-video-dashboard)
-- [Shopping Trends Analysis](https://github.com/Priyanka-1912/Shopping_Trends_Analysis)<br>
+- **[Shopping Trends Analysis](https://github.com/Priyanka-1912/Shopping_Trends_Analysis)**<br>
 [<img src="https://github.com/Priyanka-1912/Shopping_Trends_Analysis/blob/main/3.png" alt="Description" width="500" height="250" style="border-radius:80%;">](https://github.com/Priyanka-1912/Shopping_Trends_Analysis/tree/main)
 
 <!-- My Skills and tools -->
